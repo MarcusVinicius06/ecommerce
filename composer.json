@@ -2,7 +2,7 @@
     "name": "MarcusVinicius06/ecommerce",
     "authors": [
         {
-            "name": "Hcode Treinamentos"
+            "name": "Marcus Vinicius"
         }
     ],
     "require": {
@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\hcodebr\\php-classes\\src"
+            "Hcode\\": "vendor\\hcodebr\\php-classes\\src"
         }
     }
 }
